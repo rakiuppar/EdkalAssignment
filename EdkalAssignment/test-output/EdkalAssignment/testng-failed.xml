@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [EdkalAssignment]">
+  <test thread-count="5" name="SampleTest(failed)" parallel="methods">
+    <classes>
+      <class name="com.edkal.qa.testcases.AmazonSearchTests">
+        <methods>
+          <include name="addAllBestSellerItemsToCart"/>
+          <include name="addUniqueBestSellerItemsToCart"/>
+          <include name="setup"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- com.edkal.qa.testcases.AmazonSearchTests -->
+    </classes>
+  </test> <!-- SampleTest(failed) -->
+</suite> <!-- Failed suite [EdkalAssignment] -->

@@ -1,0 +1,19 @@
+18/08/2019 18:04:42 devpinoyLogger Browser launched with the url 'www.amazon.com'
+18/08/2019 18:04:42 devpinoyLogger -- Execution started for new test case
+18/08/2019 18:04:42 devpinoyLogger Searching for the keyword 'Headphones'
+18/08/2019 18:04:46 devpinoyLogger Adding unique (non duplicate) Best Seller Headphones to the cart
+18/08/2019 18:04:51 devpinoyLogger Checking whether the same product is added to cart earlier: 1
+18/08/2019 18:05:19 devpinoyLogger Checking whether the same product is added to cart earlier: 2
+18/08/2019 18:05:44 devpinoyLogger Checking whether the same product is added to cart earlier: 3
+18/08/2019 18:05:46 devpinoyLogger Getting no of items from the cart
+18/08/2019 18:05:48 devpinoyLogger Getting no of items from the cart
+18/08/2019 18:05:51 devpinoyLogger -- Execution ended for the test case
+18/08/2019 18:05:52 devpinoyLogger Browser is closed
+18/08/2019 18:06:01 devpinoyLogger Browser launched with the url 'www.amazon.com'
+18/08/2019 18:06:01 devpinoyLogger -- Execution started for new test case
+18/08/2019 18:06:01 devpinoyLogger Searching for the keyword 'Headphones'
+18/08/2019 18:06:05 devpinoyLogger Adding all the Best Seller Headphones to the cart
+18/08/2019 18:07:27 devpinoyLogger Getting no of items from the cart
+18/08/2019 18:07:30 devpinoyLogger Getting no of items from the cart
+18/08/2019 18:07:32 devpinoyLogger -- Execution ended for the test case
+18/08/2019 18:07:33 devpinoyLogger Browser is closed
